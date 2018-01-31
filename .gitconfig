@@ -1,0 +1,5 @@
+[user]
+	name = swathi
+	email = swathiveladandi
+[alias]
+	root = !pwd

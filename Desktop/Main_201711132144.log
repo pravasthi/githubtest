@@ -1,0 +1,11 @@
+fnspaces:main program starts executing at 201711132144
+fnspaces:now starting space insertion between string and count length of string 
+with and without spaces
+fnspaces:input received to a progrm cccccccccccccc 201711132144
+fnspaces:checking input 1 at 201711132144
+fnspaces:script to inject spaces between every character
+c c c c c c c c c c c c c c
+14
+27
+not_matched
+fnspacelog:succefully done space insertion at 201711132144
