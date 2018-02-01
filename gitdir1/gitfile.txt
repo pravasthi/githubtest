@@ -5,3 +5,4 @@ Menu
 4)omlet
 5)aloo parata
 6)veg Biryani
+7)egg rice
