@@ -3,3 +3,5 @@ Menu
 2)Dosa
 3)egg parata
 4)omlet
+5)aloo parata
+6)veg Biryani
