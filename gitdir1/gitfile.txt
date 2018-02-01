@@ -1,0 +1,8 @@
+Menu
+1)Biryani
+2)Dosa
+3)egg parata
+4)omlet
+5)aloo parata
+6)veg Biryani
+7)egg rice
