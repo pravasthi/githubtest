@@ -1,0 +1,11 @@
+#LAP
+#Sun Jan 07 18:50:16 CET 2018
+mainPublisher=Open Source Developer, Oleg Nenashev
+ssv.decision.all-perms.time=1515433816862
+launchCount=5
+askedInstall=true
+ssv.decision.app.hash=Main\:XGLSNrv4TDNFWFlYO9Zag58NF2Yb+uSjKQPiJSa8wdg\=JNLP\:sSnGtRw2D4RLamPtwycRnpE++2R7HY+PYk4VyTBT974\=
+ssv.decision.cert.hash=8043CC9D25EFAC9514C8776E53A3B9B95AA60157340D4DF055E3F55DD87BE9C6
+ssv.decision.base=http\://localhost\:8080/jnlpJars/remoting.jar
+lastAccessed=Jan 7, 2018 6\:50\:16 PM
+mainTitle=Jenkins Remoting Agent

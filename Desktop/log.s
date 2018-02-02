@@ -1,0 +1,44 @@
+total 176
+drwxr-xr-x  2 swathi swathi  4096 nov  8 10:04 .
+drwxr-xr-x 18 swathi swathi  4096 nov  7 11:58 ..
+-rw-rw-r--  1 swathi swathi    66 nov  8 00:11 calling.sh
+-r-xr-xrwx  1 swathi swathi    38 nov  6 22:20 date.sh
+-r-xr-xrwx  1 swathi swathi    47 nov  7 12:00 date.sh.save
+-rw-rw-r--  1 swathi swathi  1024 nov  7 11:58 .date.sh.swp
+-rw-rw-r--  1 swathi swathi    75 nov  8 01:02 errors.sh
+-rw-rw-r--  1 swathi swathi  2201 nov  8 09:58 file
+-rw-rw-r--  1 swathi swathi    40 nov  8 00:16 grep.sh
+-rw-rw-r--  1 swathi swathi  1819 nov  8 09:46 log_
+-rw-rw-r--  1 swathi swathi  1885 nov  8 09:47 log_11082017094653
+-rw-rw-r--  1 swathi swathi     7 nov  8 09:47 log_11082017094728
+-rw-rw-r--  1 swathi swathi     0 nov  8 09:48 log_11082017094756
+-rw-rw-r--  1 swathi swathi     0 nov  8 09:49 log_11082017094852
+-rw-rw-r--  1 swathi swathi     0 nov  8 09:53 log_11082017095348
+-rw-rw-r--  1 swathi swathi  2267 nov  8 09:58 log_11082017095841
+-rw-rw-r--  1 swathi swathi  2333 nov  8 09:59 log_11082017095937
+-rw-rw-r--  1 swathi swathi 11995 nov  8 10:00 log_11082017100029
+-rw-rw-r--  1 swathi swathi 12325 nov  8 10:01 log_11082017100052
+-rwxrwxrwx  1 swathi swathi 10404 nov  8 02:05 log1.csv
+-rw-rw-r--  1 swathi swathi    66 nov  8 01:04 log1.txt
+-rw-rw-r--  1 swathi swathi     0 nov  6 17:39 log2.txt
+-rw-rw-r--  1 swathi swathi  1624 nov  8 01:24 log.csv
+-rw-rw-r--  1 swathi swathi     0 nov  8 01:45 log_date
+-rw-rw-r--  1 swathi swathi  1465 nov  8 01:16 log_date+%Y%m%d%H%M%S
+-rw-rw-r--  1 swathi swathi    14 nov  6 11:40 log.file
+-rw-rw-r--  1 swathi swathi     0 nov  8 10:04 log.s
+-rw-rw-r--  1 swathi swathi    51 nov  8 01:20 log_sh
+-rw-rw-r--  1 swathi swathi   126 nov  6 17:36 log.txt
+-rw-rw-r--  1 swathi swathi   104 nov  8 10:00 ls.sh
+-rw-rw-r--  1 swathi swathi  1819 nov  8 09:40 ls.txt
+-rw-rw-r--  1 swathi swathi    44 nov  6 12:34 monitering prog.sh
+-rw-rw-r--  1 swathi swathi    69 nov  8 00:19 output.sh
+-rwxrwxrwx  1 swathi swathi    93 nov  6 12:05 prog1.sh
+-rwxrwxrwx  1 swathi swathi    68 nov  6 14:00 prog2.sh
+-rwxr-xr-x  1 swathi swathi   124 nov  6 19:41 prog3.sh
+-rwxrwxrwx  1 swathi swathi    37 nov  6 19:41 prog4.sh
+-rw-rw-r--  1 swathi swathi   101 nov  6 21:44 prog5.sh
+-rw-rw-r--  1 swathi swathi    86 nov  6 19:48 prog6.sh
+-rw-rw-r--  1 swathi swathi    65 nov  6 19:49 prog7.sh
+-rw-rw-r--  1 swathi swathi    77 nov  6 17:26 prog.sh
+-rw-rw-r--  1 swathi swathi    11 nov  6 11:29 Untitled Document 1
+-rw-rw-r--  1 swathi swathi    37 nov  7 12:52 user.txt

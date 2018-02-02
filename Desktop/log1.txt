@@ -1,0 +1,26 @@
+main program started
+now starting to check file existence
+inputs recevied to the progra are /home/swathi/Desktop/log.txt
+Input checking 1
+file checking /home/swathi/Desktop/log.txt
+file exists
+my file /home/swathi/Desktop/log.txt exists and out put received from function 0
+main program starts checking  and prints number of lines
+inputs received from program /home/swathi/Desktop/log.txt
+input checking 1
+checking file content of file /home/swathi/Desktop/log.txt
+no. of lines from file /home/swathi/Desktop/log.txt 
+number of lines from /home/swathi/Desktop/log.txt is 6
+Inpput received from a program are /home/swathi/Desktop/log.txt
+Input checking 1
+splitting file in to two if file has more then 6 lines
+two splitted files are Faa Fab
+my file /home/swathi/Desktop/log.txt is splitted in to two 0
+main program start checking /home/swathi/Desktop/log.txt and splits in to two files
+Input received from a program are 
+splitted files moving in to different directories
+split1 exists
+directory is split2
+split2 exists
+directory is split2
+files are moved succesfully

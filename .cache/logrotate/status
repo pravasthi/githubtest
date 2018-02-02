@@ -1,0 +1,23 @@
+logrotate state -- version 2
+"/home/swathi/.cache/upstart/indicator-sound.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/at-spi2-registryd.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/update-notifier-release.log" 2018-1-29-11:11:31
+"/home/swathi/.cache/upstart/indicator-printers.log" 2018-1-5-19:7:2
+"/home/swathi/.cache/upstart/unity7.log" 2018-1-29-11:11:31
+"/home/swathi/.cache/upstart/window-stack-bridge.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/indicator-session.log" 2017-11-13-10:14:24
+"/home/swathi/.cache/upstart/*.log" 2017-11-27-12:0:0
+"/home/swathi/.cache/upstart/ssh-agent.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/indicator-application.log" 2018-1-29-11:11:31
+"/home/swathi/.cache/upstart/unity-panel-service-lockscreen.log" 2018-1-7-15:0:5
+"/home/swathi/.cache/upstart/gnome-keyring-ssh.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/upstart-event-bridge.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/hud.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/indicator-datetime.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/gpg-agent.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/bamfdaemon.log" 2017-11-11-14:4:35
+"/home/swathi/.cache/upstart/indicator-keyboard.log" 2017-11-13-10:14:24
+"/home/swathi/.cache/upstart/unity-panel-service.log" 2018-1-29-11:11:31
+"/home/swathi/.cache/upstart/dbus.log" 2018-1-29-11:11:31
+"/home/swathi/.cache/upstart/unity-settings-daemon.log" 2018-1-29-10:55:16
+"/home/swathi/.cache/upstart/update-notifier-crash-_var_crash__lib_systemd_systemd-journald.0.crash.log" 2017-11-13-10:14:24
